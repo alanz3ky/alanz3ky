@@ -1,9 +1,9 @@
 <h1 align="center">Hola👋, Me llamo Alan</h1>
 <h3 align="center">A frontend developer from Spain with intentions to become Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Java , Javascript , Php, Angular**
+- 🌱 I’m currently learning **Java , Javascript , Php, Angular,Laravel, .NET**
 
-- 👨‍💻 All of my projects are available at [https://lighthearted-lokum-bea369.netlify.app/#top](https://lighthearted-lokum-bea369.netlify.app/#top)
+- 👨‍💻 All of my projects are available at [https://lighthearted-lokum-bea369.netlify.app/#top](https://lighthearted-lokum-bea369.netlify.app/#top)(Working on progress)
 
 - 💬 Ask me about **Anyhting**
 
