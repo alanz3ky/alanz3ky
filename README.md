@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java , Javascript , Php, Angular,Laravel, .NET**
 
-- 👨‍💻 All of my projects are available at [https://lighthearted-lokum-bea369.netlify.app/#top](https://lighthearted-lokum-bea369.netlify.app/#top)(Working on progress)
+- 👨‍💻 All of my projects are available at [(https://verdant-phoenix-408f61.netlify.app/)](Working on progress)
 
 - 💬 Ask me about **Anyhting**
 
