@@ -1,9 +1,9 @@
 <h1 align="center">Hola👋, Me llamo Alan</h1>
 <h3 align="center">A frontend developer from Spain with intentions to become Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Java , Javascript , Php, Angular,Laravel, .NET**
+- 🌱 I’m currently learning and working with  **Java , Javascript , Php, Angular,React ,Laravel, .NET**
 
-- 👨‍💻 All of my projects are available at (https://verdant-phoenix-408f61.netlify.app/)   (Working on progress)
+- 👨‍💻 All of my projects are available at (https://portfolio-alan-matia.netlify.app/)   (Working on progress)
 
 - 💬 Ask me about **Anyhting**
 
